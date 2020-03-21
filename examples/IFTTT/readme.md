@@ -1,6 +1,8 @@
 # An Internet of Buttons
 One of the most versatile uses of the Frame.IoT is leveraging the perfectly-positioned pushbutton (on digital pin 16) to trigger action in the world through platforms like IFTTT, Zapier, or your own native integrations with home automation platforms like Google Home, Apple Homekit, and Alexa.
 
+![Connect even the hairiest of things to the internet](https://ksr-ugc.imgix.net/assets/028/491/242/97ad98e8d607d49dd499fa80b19c67e0_original.gif?ixlib=rb-2.1.0&w=680&fit=max&v=1584754776&auto=format&gif-q=50&q=92&s=07ba4877203b0cf2e70cd2378e017e92)
+
 In this example, we're saving a lot of the coding headache by simply sending a `POST` request to an existing endpoint in IFTTT. IFTTT handles the rest and triggers a push notification the registered device with the IFTTT app installed.
 
 ### Steps to recreate:
