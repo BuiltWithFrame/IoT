@@ -6,3 +6,5 @@ Powered by the ESP-32, the Frame.IoT is Wi-Fi and Bluetooth Low Energy (BLE) ena
 Not all projects are created equal. If your prototype doesn't need some of the components built-in to the Frame.IoT — no worries! Each component is connected via jumper pins. Simply remove the corresponding jumpers and you'll free up the I/O for anything you want!
 # 🎗 The people who made this possible
 This board was crowd-crafted and is in the process of being crowdfunded. [Click here to learn more, contribute, and get your name listed here.](https://www.kickstarter.com/projects/builtwithframe/frameiot-an-arduino-compatible-dev-kit-for-wi-fi-projects)
+# ⚡️ Pinout
+![Frame.IoT Pinout](https://ksr-ugc.imgix.net/assets/028/505/677/a7ad8e711552d39a877816037ff681a6_original.png?ixlib=rb-2.1.0&w=680&fit=max&v=1584925438&auto=format&frame=1&lossless=true&s=97e3fc782a3a07654a3e973f78ee9e41)
